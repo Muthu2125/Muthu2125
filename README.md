@@ -1,6 +1,8 @@
-# Muthu Kumaran CJ
+# Hi, I'm Muthu Kumaran CJ 👋🏾 
 
 <mark>"AI/ML Engineer"(Developer)</mark>
+
+<img src="https://github.com/Muthu2125/Muthu2125/blob/main/aiml.gif" alt="banner that says Muthu Kumaran CJ - software engineer">
 
 "As a Junior AI/ML Engineer, I thrive on the dynamic intersection of data science and software engineering. With a keen eye for patterns and a drive for innovation, I've delved into the intricate world of machine learning algorithms, crafting solutions that not only solve problems but pave the way for futuristic advancements."
 
